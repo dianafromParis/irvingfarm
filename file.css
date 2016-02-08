@@ -1,0 +1,321 @@
+body {
+
+	font-family: 'Poppins', sans-serif;
+}
+
+a {
+	text-decoration: none;
+	color:black;
+}
+header {
+	background-image:url("img/home_main_desktop.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	width: 100%;
+	height: 700px;
+	margin-top: -22px;
+	color: white;
+	text-align: center;
+}
+
+#shop-coffee-btn {
+	position: relative;
+	background-color: white;
+	width: 200px;
+	height: 30px;
+	padding-top:18px;
+	margin: 0 auto;
+	top:58%;
+	color: black;
+	font-size: 16px;
+	font-weight:600;
+	letter-spacing: 0.2em;
+	text-align: center;
+	transition: background-color 0.6s ease;
+}
+
+#shop-coffee-btn:hover {
+	background-color: #E1E1E1;
+
+}
+
+
+
+#chevron {
+	position:relative;
+	background-color: transparent;
+	width: 100px;
+	margin: 0 auto;
+	top:65%;
+	font-size: 27px;
+	color:white;
+}
+
+nav {
+	background-color: black;
+	color: white;
+	height: 27px;
+	text-align: center;
+	font-size: 11px;
+	padding-top: 18px;
+
+}
+
+nav ul li {
+	display: inline-block;
+}
+
+#left-li {
+	padding-right: 580px;
+}
+
+#menu {
+	margin-top: 20px;
+	background-color: white;
+	width:100% ;
+	color:black;
+	letter-spacing:0.1em;
+	font-size: 12px;
+	font-weight: 700; 
+	
+}
+
+#menu img {
+    width:180px;
+	height:100px;
+	padding-top: 12px;
+	padding-left: 64px;
+}
+
+#menu ul li {
+	margin-left: 50px;
+	padding-right: 10px;	
+}
+
+#menu ul, img {
+	display: inline-block;
+}
+
+
+#kameAmeA {
+	background-color:#E1E1E1;
+	text-align: center;
+	margin-top:12%;
+	width:100%;
+	height:366px;
+	padding-left: 29%;
+	color:black;
+	text-align: center;
+	font-size: 12px;
+	font-weight:700;
+	letter-spacing:0.1em; 
+
+}
+
+.box {
+	background-color:white;
+	width: 288px;
+	height: 290px;
+	border-top: 4px solid black;
+	border-bottom: 4px solid black;
+	float: left;
+	margin-right: 30px;
+
+}
+
+.custom-h6 {
+	padding:8%;
+}
+
+.box img {
+	width: 288px;
+	height: 232px;
+	vertical-align: middle;
+}
+
+
+
+#mountains {
+		
+	background-image:url("img/slideshow-1.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	width:100%;
+	height:500px;
+}
+
+.bigbox {
+	position:relative;
+	background-color:white;
+	width: 460px;
+
+	border-top: 4px solid black;
+	border-bottom: 4px solid black;
+	line-height: 2em;
+	font-size: 12px;
+	letter-spacing: 0.1em;
+	top:45px;
+	left:40%;
+	}
+
+#one {
+	left:53%;
+}
+
+#two {
+	position:relative;
+	top:100px;
+	left:30%;
+	float: left;
+	height: 300px;
+	margin-right: 30px;
+}
+
+#three {
+	position:relative;
+	top:100px;
+	left:30%;
+	
+}
+
+.bigbox span, p {
+	margin-left:12px;
+	margin-right:12px;
+}
+
+
+
+span {
+	font-size: 26px;
+	font-weight: 700;
+	letter-spacing: 0.1em;
+
+}
+
+.smile{
+	background-color:white;
+	width:100%;
+	height:508px ;
+	display: inline-block;
+}
+
+.subscribe {
+	background-color:#EBEBEB;
+	width:100%;
+	height:90px;
+	vertical-align: middle;
+	
+}
+
+input {
+	position: relative;
+	border:none;
+	width: 300px;
+	height: 50px;
+	padding-left: 5px;
+	color:lightgray;
+	top: 19px;
+	margin-right: 0px;
+	margin-left: 28%;
+}
+
+#subscribe-btn {
+	position: relative;
+	background-color: black;
+	width: 200px;
+	height: 50px;
+	margin-left: -7px;
+	padding-top:px;
+	border:none;
+	color:white;
+	font-size: 13px;
+	font-weight:600;
+	letter-spacing: 0.2em;
+	text-align: center;
+	top: 17px;
+	transition: background-color 0.6s ease;
+}
+
+#subscribe-btn:hover {
+	background-color: #333333;
+}
+
+#small-div {
+	position: relative;
+	width: 500px;
+	background-color: transparent;
+	float: right;
+	margin-right: 350px;
+	top:23px;
+	font-size: 21px;
+}
+
+
+#the-end {
+	position: relative;
+	width: 60%;
+	display: inline-block;
+	padding-top: 40px;
+	margin-left: 28%;
+	height:auto;
+	background-color: white;
+
+}
+#the-end img {
+	width: 40px;
+	margin-left: 43%;
+}
+
+
+.footer-list {
+	background-color: transparent;
+	position: relative;
+	display: inline-block;
+	vertical-align: top;
+	margin-right: 10px;
+	width: 15%;
+	font-size:11px;
+	line-height: 2.1em;
+	text-align: left;
+
+}
+.footer-list p {
+	margin-left: -1px;
+	font-weight: 700;
+	background-color: transparent;
+}
+
+#exception ul li {
+
+	display: inline-block;
+	padding: 2%;
+}
+
+
+#happy-end {
+	background-color:transparent;
+	position: relative;
+	vertical-align: top;
+	width:90% ;
+	padding-top: 20px;
+	height:auto;
+	border-top: 1px solid lightgray;
+	font-size: 10px;
+	
+}
+
+
+/*
+
+a {
+	color:#CCCCCC;   
+	text-decoration: none;
+	transition: color 0.3s ease;
+}
+
+a:hover {
+	color: yellowgreen;
+	text-decoration: none;
+}
+*/
