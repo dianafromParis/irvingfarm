@@ -1,3 +1,3 @@
-# Irvinf Farm - non responsive
+# Irving Farm - non responsive
 resultat ici:
 https://dianatecher.github.io/irvingfarm1/
